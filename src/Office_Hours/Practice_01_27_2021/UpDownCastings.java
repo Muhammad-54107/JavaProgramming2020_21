@@ -13,6 +13,7 @@ public class UpDownCastings {
         Iphone iphone = (Iphone) phone; // down casting
 
         // Phone phone2 = (Samsung) phone ;
+
     }
 
 
